@@ -1,0 +1,4 @@
+* tab for scan GB
+* len >=1000 test
+CONS_ALP.dng   1  171
+

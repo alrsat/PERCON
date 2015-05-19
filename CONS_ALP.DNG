@@ -1,0 +1,15 @@
+LOCUS       CONS_ALP     171 bp    DNA             PRI       13-JAN-2000
+DEFINITION  H.sapiens alphoid repetitive DNA consensus.
+REFERENCE   1  (bases 1 to 171)
+  AUTHORS   Alexandrov I.A., Shepelev V.A.
+  TITLE     23 position N->G, 37 N->A, 40 N->G, 47 N->A 
+  JOURNAL   
+ORIGIN
+        1 AATCTGCAAG TGGATATTTG GAGCGCTTTG AGGCCTACGG TGGAAAAGGN AATATCTTCA 
+       61 CATAAAAACT AGACAGAAGC ATTCTCAGAA ACTTCTTTGT GATGTGTGCA TTCAACTCAC 
+      121 AGAGTTGAAC CTTCCTTTTG ATAGAGCAGT TTTGAAACAC TCTTTTTGTA G          
+//
+          
+          
+          
+
